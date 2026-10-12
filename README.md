@@ -4,7 +4,7 @@
 
 This project explores a car sales dataset with Microsoft Excel and turns it into a visual report for investigating sales value, vehicle demand, company performance, dealer performance, and customer and vehicle characteristics.
 
-![Car Sales Analytics Dashboard](images/dashboard-preview.png)
+![Car Sales Analytics Dashboard](images/dashboard-preview.jfif)
 
 ## At a Glance
 
